@@ -1,0 +1,14 @@
+
+
+body{
+    padding: 32px;
+    font-family: "Lato", "Roboto", "Noto Sans", serif;
+    font-size: 18px;
+}
+
+h1,
+h2 {
+    font-size: 32px;
+    font-family: "Roboto", sans-serif;
+    color: crimson;
+}
